@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1598106194",
+        "cacheTag": "1598214503",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -42,14 +42,14 @@ var overviewerConfig = {
     "tilesets": [
         {
             "name": "Overviewer Render (smooth_lighting)",
-            "zoomLevels": 7,
+            "zoomLevels": 8,
             "defaultZoom": 1,
-            "maxZoom": 7,
+            "maxZoom": 8,
             "path": "world-smooth_lighting",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "world",
-            "last_rendertime": 1598106019,
+            "last_rendertime": 1598214320,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
